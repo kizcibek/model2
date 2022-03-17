@@ -1,0 +1,5 @@
+Django==3.1
+psycopg2-binary==2.8.5
+pillow==8.0.1
+
+django-posts~=0.3.0
